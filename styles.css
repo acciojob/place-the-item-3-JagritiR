@@ -5,3 +5,8 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
+
+.item {
+  width: 100px;
+  height: 100px;
+}
